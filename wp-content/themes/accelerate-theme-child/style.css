@@ -137,6 +137,92 @@ article.archive-study figure.image-placement {
 } 
 
 
+input#nf-field-4.ninja-forms-field.nf-element {
+    float: right;
+    width: 200px;
+    background-color: green;
+}
 
+
+.nf-form-title h3 {
+	color: white;
+}
+
+/* About Us page styling */
+.row1 {
+	Height: 350px;
+	font-size: 18px;
+	background-color: pink;
+}
+
+.row1 p {
+	width: 300px;
+	color: blue;
+	float: left;
+	margin-top: 50px;
+}
+.row1 figure {
+	width: 200px;
+	float: left;
+	background-color: orange;
+}
+
+.row2 {
+	Height: 350px;
+	font-size: 18px;
+	background-color: grey;
+}
+
+.row2 p {
+	width: 300px;
+	color: blue;
+	margin-top: 50px;
+	float: left;
+}
+
+.row2 figure {
+	width: 300px;
+	float: left;
+	
+	background-color: orange;
+}
+
+.row3 {
+	Height: 350px;
+	font-size: 12px;
+	background-color: white;
+}
+
+.row3 p {
+	width: 300px;
+	color: black;
+	float: left;
+}
+
+.row3 figure {
+	width: 300px;
+	float: left;
+	margin-top: 50px;
+	background-color: orange;
+}
+
+.row4 {
+	Height: 350px;
+	font-size: 18px;
+	background-color: green;
+}
+
+.row4 p {
+	width: 300px;
+	color: blue;
+	margin-top: 50px;
+	float: left;
+}
+
+.row4 figure {
+	width: 300px;
+	float: left;
+	background-color: orange;
+}
 	
 

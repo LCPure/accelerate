@@ -33,8 +33,7 @@ get_header(); ?>
                <?php the_content(); ?>
               </aside>
 
-				
-				  <div class="case-study-images">
+				 <div class="case-study-images">
 				   <?php if(image_1) { ?>
                      <?php echo wp_get_attachment_image( $image_1, $size); ?>
 				   <?php } ?>
