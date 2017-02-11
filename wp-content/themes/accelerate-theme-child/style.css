@@ -32,6 +32,11 @@
 
 .blog-post {
 	width: 50%;
+	font-size: 16px;
+	font-family: 'Montserrat';
+	color: black;
+	text-transform: uppercase;
+	
 }
 
 .blog-post h4 {
@@ -94,7 +99,7 @@ div.case-study-images img {
 
 .images {
 	width: 250px;
-	height: 300px;
+	height: 350px;
 	margin: 10px 10px 60px 10px;
 	float: left;
 }
@@ -106,13 +111,14 @@ figure {
 	padding: 10px;
 }
 
+
 /* Archive Style  */
 
 
 
 article.archive-study {
 	margin: 0 40px 10px 0;
-	height: 75%;
+	height: 80%;
 	}
 
 
@@ -150,79 +156,163 @@ input#nf-field-4.ninja-forms-field.nf-element {
 
 /* About Us page styling */
 .row1 {
-	Height: 350px;
+	Height: 400px;
 	font-size: 18px;
-	background-color: pink;
 }
 
 .row1 p {
-	width: 300px;
+	width: 400px;
 	color: blue;
 	float: left;
-	margin-top: 50px;
+	margin-top: 10px;
 }
 .row1 figure {
-	width: 200px;
+	width: 300px;
 	float: left;
-	background-color: orange;
 }
 
 .row2 {
-	Height: 350px;
+	Height: 325px;
 	font-size: 18px;
-	background-color: grey;
 }
 
 .row2 p {
-	width: 300px;
+	width: 400px;
 	color: blue;
-	margin-top: 50px;
+	margin-top: 15px;
 	float: left;
 }
 
 .row2 figure {
-	width: 300px;
+	width: 150px;
 	float: left;
 	
-	background-color: orange;
 }
 
 .row3 {
-	Height: 350px;
-	font-size: 12px;
-	background-color: white;
+	Height: 300px;
+	font-size: 18px;
 }
 
 .row3 p {
-	width: 300px;
+	width: 400px;
 	color: black;
+	margin-top: 10px;
 	float: left;
 }
 
 .row3 figure {
 	width: 300px;
 	float: left;
-	margin-top: 50px;
-	background-color: orange;
+	margin-top: -40px;
 }
 
 .row4 {
-	Height: 350px;
+	Height: 300px;
 	font-size: 18px;
-	background-color: green;
 }
 
 .row4 p {
-	width: 300px;
+	width: 400px;
 	color: blue;
 	margin-top: 50px;
 	float: left;
 }
 
 .row4 figure {
-	width: 300px;
+	width: 200px;
 	float: left;
-	background-color: orange;
 }
+
+.rowhead1 {
+	margin-left: 325px;
+}
+
+.rowhead3 {
+	margin-left: 325px;
+}
+
+.after-top {
+    background: url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
+	height: 250px;
+	
+}
+
+.after-top p {
+	color: white;
+	text-align: center;
+	width: 400px;
+	margin-left: 300px;
+}
+
+.row5 {
+	height: 100px;
+	width: 100%;
+	color: red;
+	float: right;
+			
+}
+
+.bang {
+	position: absolute;
+	left: 350px;
+	width: 375px;
+}
+
+.select-buy {
+	position: absolute;
+	left: 750px;
+	margin-top: 35px;
+	height: 25px;
+	width: 100px;
+	padding-left: 20px;
+	background-color: green;
+}
+
+.row5 a {
+	color: white;
+}
+
+.page-wrapper {
+	height: 1100px;
+	background-color: #FF5A32;
+}
+
+.alignnone size-medium wp-image-47402 {
+	margin-left: 25px;
+}
+
+div#secondary {
+	position: absolute;
+	left: 50%;
+	margin-top: -344px;
+}
+
+div#secondary.widget-area h4 {
+	font-size: 16px;
+	font-family: 'Montserrat';
+	color: #a6a6a6;
+	text-transform: uppercase;
+	Margin-left: 40px;
+}
+
+.widget-title {
+	font-size: 24px;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: black;
+}
+
+div#secondary.widget-area {
+	font-size: 16px;
+	font-family: 'Montserrat';
+	color: black;
+	text-transform: uppercase;
+}
+	
+	
+
+
+	
 	
 

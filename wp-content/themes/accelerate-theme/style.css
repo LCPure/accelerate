@@ -955,6 +955,8 @@ section .navigation {
     margin: 16px 0 80px;
 }
 
+
+
 .site-footer .site-info {
 	border-top: 1px dotted #e3e1e1;
 	padding-top:20px;
@@ -987,25 +989,7 @@ a.button, a.button:link {
 	color:white;
 }
 
-/* Featured Post */
-.individual-featured-work   {
-	float: left;
-	margin: 0px 0px 15px 15px;
-}
 
-.feature-work h4 {
-	text-align: center;
-	margin-bottom: 30px;
-}
-
-.blog-post h4 {
-	padding-top: 50px;
-}
-
-.individual-featured-work figure  {
-	vertical-align: top;
-	background-color; yellow;
-}
 
 
 
