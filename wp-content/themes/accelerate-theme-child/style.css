@@ -91,6 +91,12 @@ div.case-study-images img {
 	margin: 0px 0px 15px 15px;
 }
 
+.homepage-featured-work   li{
+	list-style: none;
+}
+
+
+
 .feature-work h4 {
 	text-align: center;
 	margin-bottom: 30px;

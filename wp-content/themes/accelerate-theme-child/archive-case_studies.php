@@ -27,8 +27,7 @@ get_header(); ?>
                <h5><?php echo $services; ?></h5>
 			    <?php the_excerpt(); ?>
                 <p><a href="<?php the_permalink(); ?>">View Project</a></p>
-				<br />
-				<br />
+				
               </aside>
              
 				 <div class="case-images">
